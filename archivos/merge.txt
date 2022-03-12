@@ -1,0 +1,5 @@
+Mateo Echavarria Sierra
+18
+Adquirir conocimientos firmes de POO y así continuar añadir fortaleciendo mis habilidades como programador.
+Aprender a "modelar" un objeto y a implementarlo dentro de aplicaciones web y proyectos.
+Crear un proyecto bien estructurado con el fin de plasmar todo el conocimiento brindado en este curso.
